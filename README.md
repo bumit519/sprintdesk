@@ -318,17 +318,6 @@ Accessibility considerations include:
 
 ### Live Demo
 
-*Add deployment link here.*
+https://sprintdesk-rho-two.vercel.app
 
-### Screen Recording
-
-*Add screen recording link here.*
-
-### Architecture Document
-
-*Add architecture document link here.*
-
-### API Documentation
-
-*Add Swagger/OpenAPI link here if available*
 
