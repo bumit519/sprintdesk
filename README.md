@@ -311,13 +311,12 @@ Accessibility considerations include:
 - Color contrast considerations
 
 ## Submission
-
 ### GitHub Repository
 
-[https://github.com/bumit519/sprintdesk](https://github.com/bumit519/sprintdesk)
+[GitHub Repository](https://github.com/bumit519/sprintdesk)
 
 ### Live Demo
 
-https://sprintdesk-rho-two.vercel.app
+[Live Demo](https://sprintdesk-rho-two.vercel.app)
 
 
